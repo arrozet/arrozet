@@ -2,7 +2,7 @@
 
 <sub>I'm currently studying Software Engineering at the University of Malaga. I have a keen interest in Artificial Intelligence, Computer Vision, Data Structures, Algorithms and low-level programming.</sub>
 
-<sub>👁 I'm passionate about hardware — especially **peripherals**. I believe tools shape our understanding and performance, and I'm always exploring how to leverage them effectively.</sub>
+<sub>👁 I'm passionate about hardware — especially **peripherals**. I believe tools shape our understanding and can propel our performance, so I'm always exploring how to leverage them effectively.</sub>
 
 ----
 
@@ -41,7 +41,7 @@
 
 ----
 
-Reach me out:
+Reach out:
 
 <a href="mailto:arrozet@protonmail.com">
     <img align="left" alt="email" width="35px" src="https://img.shields.io/badge/-%236D4AFF?style=flat-square&logo=protonmail&logoColor=white">
