@@ -1,4 +1,4 @@
-### 🖱 Hola, I'm Rubén! &nbsp;&nbsp; <sup>  &mdash; I like doing quality work. And quality code. And when machines do stuff by their own. I also happen to like games.</sup>
+### 🖱 Hola, I'm Rubén! &nbsp;&nbsp; <sup>  &mdash; I like doing quality work. And quality code. And when machines do stuff by their own. I also like games.</sup>
 
 <sub>I'm currently studying Software Engineering at the University of Malaga. I have a keen interest in Artificial Intelligence, Computer Vision, Data Structures and Algorithms.</sub>
 
