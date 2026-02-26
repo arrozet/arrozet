@@ -30,7 +30,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8?style=plastic&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=plastic&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=plastic&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=plastic&logoColor=white)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-%23000000?style=plastic&logo=intellijidea&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7?style=plastic&logo=wireshark&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-%23512BD4?style=plastic&logo=dotnet&logoColor=white)
