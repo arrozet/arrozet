@@ -7,7 +7,7 @@
 ----
 
 ![languages:](https://img.shields.io/badge/languages%3A-black?style=flat-square)
-![Java](https://img.shields.io/badge/Java-orange?style=plastic&logo=coffeescript&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=plastic&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3?style=plastic&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23A8B9CC?style=plastic&logo=c&logoColor=white)
@@ -22,19 +22,19 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=plastic&logo=git&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-%23FABD14?style=plastic&logo=uml&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=plastic&logo=linux&logoColor=black)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+[![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=plastic&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8?style=plastic&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=plastic&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=plastic&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=plastic&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-%23000000?style=plastic&logo=intellijidea&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6?style=plastic&logo=css3&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%23FFFFFF?style=plastic&logo=unity&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7?style=plastic&logo=wireshark&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-%23512BD4?style=plastic&logo=dotnet&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626?style=plastic&logo=jupyter&logoColor=white)
-![Hugo](https://img.shields.io/badge/Hugo-%23FF4088?style=plastic&logo=hugo&logoColor=white)
 
 
 ![tools:](https://img.shields.io/badge/tools%3A-black?style=flat-square)
