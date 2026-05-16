@@ -57,9 +57,6 @@
 
 ----
 
-Reach out:
+Say hi:
 
-<a href="mailto:arrozet@protonmail.com">
-    <img align="left" alt="email" width="35px" src="https://img.shields.io/badge/-%236D4AFF?style=flat-square&logo=protonmail&logoColor=white">
-</a>
-<br>
+[![Proton Mail](https://img.shields.io/badge/arrozet%40protonmail.com-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:arrozet@protonmail.com)
