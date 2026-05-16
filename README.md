@@ -1,6 +1,6 @@
 ### 🖱 Hola, I'm Rubén! &nbsp;&nbsp; <sup>I like doing quality work. And quality code. And when machines do stuff by themselves. I also like games.</sup>
 
-<sub>I'm a Software Engineering student at the University of Malaga, focused on AI, automation, data systems, computer vision, backend architecture, and the kind of software that keeps working after the demo.</sub>
+<sub>I'm a Software Engineering student at the University of Malaga, drawn to AI, computer vision, data, and architecture across the stack. I like building things with enough care to keep working after the demo.</sub>
 
 <sub>👁 I'm also into hardware, especially **peripherals**. Tools shape how we think and how fast we can move, so I enjoy tuning both the machine and the workflow around it.</sub>
 
@@ -34,18 +34,20 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://custom-icon-badges.demolab.com/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
 ![platform:](https://img.shields.io/badge/platform%20%26%20tools%3A-111111?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=flat-square&logo=aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-FABD14?style=flat-square&logo=uml&logoColor=black)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=flat-square&logo=aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ![lower level:](https://img.shields.io/badge/lower%20level%3A-111111?style=flat-square)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
